@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    workshop
+                    annisa
                 </div>
 
                 <div class="links">
